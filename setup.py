@@ -32,5 +32,6 @@ setup(
         'parsimonious',
         'yapf',
         'xarray'
-    ]
+    ],
+    package_data={'pysd':['*.yapf']}
 )
