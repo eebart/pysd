@@ -8,10 +8,7 @@ model, these instructions are for you. The instructions will use a slightly less
 stable yet much more current version of pysd that is able to handle those nested
 functions, no model changes required.
 
-Requirements: Python 3.5 or 3.6
-*I have this version: Python 3.6.0 :: Anaconda 4.3.0 (x86_64)
-
-================================================================================
+Requirements: Python 3.5 or 3.6 *Note: I have this version: Python 3.6.0 :: Anaconda 4.3.0 (x86_64)*
 
 Step 1: Uninstall existing pysd
 
